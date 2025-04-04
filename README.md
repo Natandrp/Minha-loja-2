@@ -1,1 +1,1 @@
-# Minha-loja-2
+# Minha-loja
